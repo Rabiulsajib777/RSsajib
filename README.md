@@ -5,6 +5,8 @@ pkg install python
 
 pkg install python2
 
+pkg install lolcat
+
 apt install git
 
 git clone https://github.com/Hunterboy111/RSsajib.git
